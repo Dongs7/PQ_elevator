@@ -1,5 +1,3 @@
-// CMPT 225 FALL 2013 301008631 DONG-HYUN CHUNG
-// Assignment #3
 
 #include <iostream>
 
